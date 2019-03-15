@@ -37,9 +37,11 @@ output:
 
 # Introduction
 
-...
+This is your awesome intro.
 
-# Related work
+# Some other stuff here
+
+## More here
 
 @example_book
 
